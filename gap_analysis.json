@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Small subject cohorts (n<15)",
+    "present": true,
+    "evidence": "n is stated for only 5 of 21 empirical papers. Under 15: paper 10 (n=12). Not stated in the abstract for papers 1, 3, 4, 5, 6, 9, 11, 14, 15, 16, 17, 18, 20, 22, 24, 29.",
+    "severity": "low"
+  },
+  {
+    "category": "Lab-only / controlled settings, not real-world or naturalistic deployment",
+    "present": true,
+    "evidence": "No paper's abstract-level summary states this.",
+    "severity": "high"
+  },
+  {
+    "category": "No EEG-driven closed-loop adaptation of instruction (studies only monitor or decode EEG, or use neurofeedback without adapting what or when material is presented)",
+    "present": true,
+    "evidence": "Only papers 14 state this.",
+    "severity": "medium"
+  },
+  {
+    "category": "No study uses or validates consumer-grade dry EEG (e.g. Muse) for learning",
+    "present": true,
+    "evidence": "No paper's abstract-level summary states this.",
+    "severity": "high"
+  },
+  {
+    "category": "Individual variability in theta/alpha response not addressed",
+    "present": true,
+    "evidence": "No paper's abstract-level summary states this.",
+    "severity": "high"
+  },
+  {
+    "category": "No long-term / multi-session retention outcomes (only immediate recall tested)",
+    "present": true,
+    "evidence": "Only papers 22, 24 state this.",
+    "severity": "medium"
+  },
+  {
+    "category": "Confounds (fatigue, caffeine, mood, time-of-day) not controlled or reported",
+    "present": true,
+    "evidence": "No paper's abstract-level summary states this.",
+    "severity": "high"
+  },
+  {
+    "category": "No comparison against a fixed-interval or non-adaptive baseline",
+    "present": true,
+    "evidence": "Only papers 10, 14 state this.",
+    "severity": "medium"
+  },
+  {
+    "category": "No adaptive scheduling policy learned from delayed recall feedback (e.g. bandit / RL)",
+    "present": true,
+    "evidence": "No paper's abstract-level summary states this.",
+    "severity": "high"
+  }
+]
