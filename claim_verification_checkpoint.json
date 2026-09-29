@@ -1,0 +1,110 @@
+{
+ "Passive brain‑computer interfaces (pBCIs) are defined as systems that monitor users’ neural activity without explicit commands, inferring cognitive or emotional states to adapt human‑machine interaction [3].": {
+  "verdict": "supported",
+  "reason": "Source [3] defines passive BCI as monitoring brain activity without explicit commands to infer cognitive/emotional states."
+ },
+ "The early conceptualization of pBCIs emphasized applying brain–computer interface technology to human–machine systems broadly, using passively monitored brain activity to inform system behavior, in contrast to neurofeedback's active self‑modulation paradigm [3].": {
+  "verdict": "partial",
+  "reason": "Source [3] describes passive BCI as using passive monitoring to inform system behavior, but does not explicitly contrast it with neurofeedback or emphasize broad human‑machine systems."
+ },
+ "Subsequent reviews expanded the scope of pBCIs to include hybrid modalities; for example, combining near‑infrared spectroscopy with EEG has been shown to improve motor imagery classification accuracy, suggesting multimodal approaches can enhance BCI performance [5].": {
+  "verdict": "supported",
+  "reason": "Source [5] reports that simultaneous NIRS and EEG significantly improve motor imagery classification accuracy, supporting multimodal enhancement."
+ },
+ "Integrating pBCIs with assistive technologies has been identified as a promising avenue, with hybrid architectures proposed to support communication, control, and motor recovery applications [6].": {
+  "verdict": "supported",
+  "reason": "Source [6] identifies hybrid BCI architectures with assistive technologies for communication, control, and motor recovery."
+ },
+ "Comprehensive surveys of EEG‑based BCI systems have catalogued typical signal acquisition and classification pipelines, highlighting persistent challenges such as signal variability and real‑time processing constraints [7].": {
+  "verdict": "partial",
+  "reason": "Source [7] reviews EEG‑based BCI pipelines and challenges, but does not specifically mention signal variability or real‑time processing constraints."
+ },
+ "Finally, broader reviews of BCI applications have underscored their potential across domains ranging from medical rehabilitation to education, while noting usability and technical hurdles that remain to be addressed [9].": {
+  "verdict": "supported",
+  "reason": "Source [9] discusses BCI applications across medical, educational, and other domains, noting usability and technical challenges."
+ },
+ "Cognitive load theory, revisited two decades after its original formulation, continues to frame learning as constrained by limited working‑memory resources during instruction [17].": {
+  "verdict": "supported",
+  "reason": "The abstract of [17] explicitly states that cognitive load theory emphasizes limited working‑memory resources and summarizes its relevance over the last 20 years."
+ },
+ "In digital learning, extraneous load arises from design challenges that distract learners while still motivating them, underscoring the need for objective workload metrics [13].": {
+  "verdict": "partial",
+  "reason": "[13] confirms that design factors in digital learning induce extraneous load while motivating learners, but it does not mention the need for objective workload metrics."
+ },
+ "Meta‑analytic evidence shows that frontal theta and beta power rise with increasing workload, whereas alpha changes are less reliable [19].": {
+  "verdict": "supported",
+  "reason": "[19] reports significant positive effects of frontal theta and beta power with increasing workload and notes that alpha changes are less reliable."
+ },
+ "An online brain‑load index derived from two frontal channels tracks overload and fatigue during multitasking, with significant increases linked to task count and wakefulness [29].": {
+  "verdict": "supported",
+  "reason": "[29] describes a two‑channel EEG index that rises with task count and wakefulness, matching the claim."
+ },
+ "More recent work demonstrates that subject‑specific neural networks can predict cognitive load during intelligence tests from a small set of electrodes, outperforming generic models and maintaining robustness across channel reductions [20].": {
+  "verdict": "supported",
+  "reason": "[20] shows subject‑specific neural networks outperform generic models and remain robust when channels are reduced."
+ },
+ "A decade-spanning review of EEG‑BCI classification algorithms found adaptive, matrix/tensor, transfer‑learning, and deep‑learning approaches, with adaptive classifiers generally outperforming static ones [2].": {
+  "verdict": "supported",
+  "reason": "[2] lists the four categories and states adaptive classifiers generally outperform static ones."
+ },
+ "In motor‑imagery BCIs, conventional pipelines combine advanced feature extraction, selection, and classifiers such as support vector machines or random forests, yet these remain limited to specific paradigms [4].": {
+  "verdict": "unsupported",
+  "reason": "The abstract of [4] does not mention SVMs, random forests, or the limitation to specific paradigms."
+ },
+ "Deep learning has been systematically surveyed for EEG analysis, revealing widespread use of convolutional architectures and emerging trends, though the superiority of deep models over traditional methods remains unresolved due to dataset heterogeneity and reporting gaps [8, 12].": {
+  "verdict": "unsupported",
+  "reason": "Neither [8] nor [12] explicitly state that deep models’ superiority over traditional methods remains unresolved due to dataset heterogeneity and reporting gaps."
+ },
+ "Empirical evidence from a 2017 study shows that a deep convolutional network achieved 84.0 % accuracy versus 82.1 % for the FBCSP baseline, and visualization confirmed that the network learned spectral power modulations from raw EEG [11].": {
+  "verdict": "supported",
+  "reason": "[11] reports 84.0% accuracy for deep ConvNets versus 82.1% for FBCSP and confirms spectral power modulation learning."
+ },
+ "A compact convolutional architecture, EEGNet, demonstrated competitive accuracy across multiple BCI paradigms while remaining highly parameter‑efficient, suggesting potential for generalization beyond single‑paradigm models [1].": {
+  "verdict": "partial",
+  "reason": "[1] describes EEGNet as compact and tested across paradigms, but does not explicitly claim competitive accuracy or generalization beyond single‑paradigm models."
+ },
+ "In a spatial‑memory paradigm, theta up‑regulation significantly improved visuo‑spatial recall after one week relative to both active and passive controls [22].": {
+  "verdict": "supported",
+  "reason": "[22] reports theta up‑regulation improved visuo‑spatial recall after one week compared to active and passive controls."
+ },
+ "A similar effect was observed for real‑life episodic memory: post‑encoding theta/beta up‑regulation yielded higher recall after one week compared with controls, indicating early consolidation benefits [24].": {
+  "verdict": "supported",
+  "reason": "[24] shows post‑encoding theta/beta up‑regulation yielded higher recall after one week versus controls."
+ },
+ "Alpha‑band NF also benefits memory; training frontoparietal alpha increased alpha amplitude and duration, accompanied by marked gains in both working and episodic memory in healthy adults [26].": {
+  "verdict": "supported",
+  "reason": "Abstract reports increased alpha amplitude/duration and significant gains in working and episodic memory."
+ },
+ "Stroke survivors benefited from NF as well; about 70 % of participants improved NF performance, leading to gains in verbal short‑ and long‑term memory regardless of protocol, while SMR training specifically improved visuo‑spatial short‑term memory [25].": {
+  "verdict": "supported",
+  "reason": "Abstract reports ~70% NF performance gains, verbal memory improvements, and SMR-specific visuo‑spatial gains."
+ },
+ "The field’s methodological heterogeneity and lack of standardized reporting are highlighted by the CRED‑nf checklist, which aims to improve future study designs [28].": {
+  "verdict": "supported",
+  "reason": "Abstract states the checklist aims to improve reporting and experimental design standards."
+ },
+ "Finally, reviews underscore the therapeutic potential of NF while noting mixed evidence and the need for rigorous, standardized protocols [21, 23, 27].": {
+  "verdict": "partial",
+  "reason": "Only the 2018 review [27] notes mixed evidence and heterogeneity; the other reviews do not explicitly mention mixed evidence."
+ },
+ "Participants who received SMR training demonstrated statistically significant gains in working‑memory accuracy and speed compared with a control group, suggesting that targeted modulation of SMR activity can translate into measurable behavioral benefits [30].": {
+  "verdict": "supported",
+  "reason": "Abstract reports significant working‑memory improvement in the SMR group versus sham."
+ },
+ "In a realistic air‑traffic control simulation, a passive BCI that estimated mental workload triggered adaptive automation and reduced workload [10].": {
+  "verdict": "supported",
+  "reason": "Abstract describes passive BCI triggering adaptive automation and reducing workload in the simulation."
+ },
+ "In learning, an EEG‑based passive BCI that modulated instructional speed according to instantaneous cognitive load, combined with motivational cues, produced significantly higher learning gains and a better learning experience than either non‑adaptive or adaptive alone, though no difference was found between adaptive alone and control [14].": {
+  "verdict": "supported",
+  "reason": "The abstract states that combining BCI with motivational factors led to more significant learning gains and improved experience, and that there was no significant difference between adaptive alone and control."
+ },
+ "These empirical findings align with the broader theoretical discussion of cognitive load theory, which identifies methodological and conceptual challenges in measuring and applying load in instructional design [15].": {
+  "verdict": "supported",
+  "reason": "The abstract discusses methodological and conceptual challenges in measuring and applying cognitive load in instructional design."
+ },
+ "Recent integrative reviews argue that AI‑driven adaptive learning systems, guided by real‑time EEG/fNIRS measures of cognitive load, can personalize instruction and improve learning efficacy, while also raising privacy concerns [16].": {
+  "verdict": "supported",
+  "reason": "The abstract reports that AI/ML improve learning efficacy by managing cognitive load and personalizing instruction, and notes privacy concerns."
+ }
+}
