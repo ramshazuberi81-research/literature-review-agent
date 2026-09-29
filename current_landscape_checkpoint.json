@@ -1,0 +1,158 @@
+{
+ "Fabien Lotte": {
+  "name": "F. Lotte",
+  "affiliations": [],
+  "h_index": 4,
+  "paper_count": 24,
+  "recent_papers": [
+   {
+    "paperId": "9af7daa40a21d8c510205bc6005e66193b323302",
+    "title": "Réveillez vos neurones ! Impact d’un entraînement Neurofeedback par EEG sur la Capacité de Maintien d’Éveil et la Somnolence chez des sujets sains",
+    "year": 2024
+   },
+   {
+    "paperId": "9bc91a03af2276d00b7b5c97a4e3b7dffe28f9fb",
+    "title": "Études, conceptions et applications des interfaces cerveau-ordinateur",
+    "year": 2024
+   }
+  ]
+ },
+ "Marco Congedo": {
+  "name": "M. Congedo",
+  "affiliations": [],
+  "h_index": 42,
+  "paper_count": 152,
+  "recent_papers": [
+   {
+    "paperId": "3697615609541e158ae5c52762f269603c0cd066",
+    "title": "CURS: An exact method for sampling on Riemannian manifolds",
+    "year": 2026
+   }
+  ]
+ },
+ "Stefanie Enriquez‐Geppert": {
+  "name": "S. Enriquez-Geppert",
+  "affiliations": [],
+  "h_index": 18,
+  "paper_count": 47,
+  "recent_papers": []
+ },
+ "Rene Jürgen Huster": {
+  "name": "R. Huster",
+  "affiliations": [],
+  "h_index": 36,
+  "paper_count": 84,
+  "recent_papers": []
+ },
+ "Daniel A. Levy": {
+  "name": "Daniel A. Levy",
+  "affiliations": [],
+  "h_index": 23,
+  "paper_count": 58,
+  "recent_papers": []
+ },
+ "Guilherme Maia de Oliveira Wood": {
+  "name": "Guilherme Sampaio Maia de Oliveira",
+  "affiliations": [],
+  "h_index": 1,
+  "paper_count": 2,
+  "recent_papers": [
+   {
+    "paperId": "d0f1c5155d64df355f2283d3eb72d82d1dfdcd80",
+    "title": "EPIDEMIOLOGICAL PROFILE OF TUBERCULOSIS IN PERNAMBUCO: SOCIODEMOGRAPHIC ANALYSIS OF THE PERIOD 2013–2023",
+    "year": 2026
+   }
+  ]
+ },
+ "Vernon J Lawhern": {
+  "name": "Vernon J. Lawhern",
+  "affiliations": [],
+  "h_index": 23,
+  "paper_count": 70,
+  "recent_papers": [
+   {
+    "paperId": "177c96c2766d244ecf9dcd9673e77cce5a987e6d",
+    "title": "Human-Inspired Multi-Level Reinforcement Learning",
+    "year": 2025
+   },
+   {
+    "paperId": "3e3f5f2a0ee3536277711047f04d2317db75867b",
+    "title": "Multi-Task Reward Learning from Human Ratings",
+    "year": 2025
+   },
+   {
+    "paperId": "be57046d9ccb78ce2be29e5eb0aaa3fce008d728",
+    "title": "Performance Optimization of Ratings-Based Reinforcement Learning",
+    "year": 2025
+   }
+  ]
+ },
+ "Amelia J Solon": {
+  "name": "Amelia J. Solon",
+  "affiliations": [],
+  "h_index": 7,
+  "paper_count": 9,
+  "recent_papers": []
+ },
+ "Nicholas R Waytowich": {
+  "name": "Nick Waytowich",
+  "affiliations": [],
+  "h_index": 2,
+  "paper_count": 5,
+  "recent_papers": [
+   {
+    "paperId": "1302f61625ba92466e6b73933b85cfeda3850f01",
+    "title": "Investigating the mission impact of non-kinetic variables in the operational environment",
+    "year": 2024
+   },
+   {
+    "paperId": "f0abd6fbb3f5e8af96600368c3110d45c09a0284",
+    "title": "Adversarial attacks on reinforcement learning agents for command and control",
+    "year": 2024
+   }
+  ]
+ },
+ "Stephen M Gordon": {
+  "name": "Stephen M. Gordon",
+  "affiliations": [],
+  "h_index": 4,
+  "paper_count": 8,
+  "recent_papers": [
+   {
+    "paperId": "bacd8f329d1a23b238fbeb3b8256ac71450231ff",
+    "title": "Evidence of elevated situational awareness for active duty soldiers during navigation of a virtual environment",
+    "year": 2024
+   }
+  ]
+ },
+ "Chou P Hung": {
+  "name": "Chou P Hung",
+  "affiliations": [],
+  "h_index": 10,
+  "paper_count": 40,
+  "recent_papers": []
+ },
+ "Brent J Lance": {
+  "name": "B. Lance",
+  "affiliations": [],
+  "h_index": 23,
+  "paper_count": 70,
+  "recent_papers": [
+   {
+    "paperId": "1660b63c8a3063693ece8f4361c351af00df891e",
+    "title": "LEVERAGING BRAIN COMPUTER INTERACTION TECHNOLOGIES FOR MILITARY \n APPLICATIONS",
+    "year": 2024
+   },
+   {
+    "paperId": "2bb14bf91bf872d2ebc6f054d290c3f209e22850",
+    "title": "Texture- and Shape-based Adversarial Attacks for Vehicle Detection in Synthetic Overhead Imagery",
+    "year": 2024
+   },
+   {
+    "paperId": "fe5a3d3a95e39e2bc4c8a5dbfb3abd73f1a114e1",
+    "title": "Mission-Based Scenario Research: Experimental Design and \n Analysis",
+    "year": 2024
+   }
+  ]
+ }
+}
