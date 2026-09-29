@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+
+# API keys — never commit these
+.env
+
+# Generated data (regenerate per-run, don't publish someone's live corpus)
+extracted_cache.json
+gap_analysis.json
+literature_review.md
+literature_review_fixed.md
+claim_verification.md
+claim_verification_checkpoint.json
+current_landscape.md
+current_landscape_checkpoint.json
+papers.db
+papers.txt
